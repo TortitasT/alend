@@ -1,6 +1,6 @@
 {
   "name": "alend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A moodle events console tool.",
   "main": "index.js",
   "author": "Victor Garcia",
